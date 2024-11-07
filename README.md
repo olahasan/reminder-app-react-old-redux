@@ -81,10 +81,10 @@ Otherwise, all links will open in the same tab.
 Through this project:
 1. I learned in this simple project how to create react app and treat with calss component,
 2. how to deal with redux old style [actions,Rducers,types]
-3. how to deal with moment "A JavaScript date library"
-4. how to deal with DateTime Picker library
-5. how to deal with sfcookies instead of local-storage
-6. how to deal with react-bootstrap
+3. how to deal with **moment "A JavaScript date library"**
+4. how to deal with **DateTime Picker library**
+5. how to deal with **sfcookies instead of local-storage**
+6. how to deal with **react-bootstrap**
 7. how to deploy it on surge
 
 ## Continued Development
