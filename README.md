@@ -70,9 +70,7 @@ Otherwise, all links will open in the same tab.
 
 - Solution URL: [here](https://github.com/olahasan/reminder-app-react-old-redux-mapStateToProps-mapdispatchtoprops--Class-component)
 
-- Live Site URL: [here](https://reminder-app-react-old-redux.surge.sh/)
-  OR HERE
-- <a href="https://reminder-app-react-old-redux.netlify.app/" target="_blank">Live Site URL</a> 
+- Live Site URL: [here](https://reminder-app-react-old-redux.surge.sh/) OR HERE [here](https://reminder-app-react-old-redux.netlify.app/)
 
  ## Screenshot
  
